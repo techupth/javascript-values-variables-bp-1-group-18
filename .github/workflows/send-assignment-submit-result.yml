@@ -1,0 +1,11 @@
+name: Send Assignment Submit Result
+
+on:
+  push:
+    tags:
+      - v1.**
+
+jobs:
+  send-assignment-submit-result:
+    uses: techupth/techupth-workflows/.github/workflows/send-assignment-submit-result-template.yml@main
+    secrets: inherit

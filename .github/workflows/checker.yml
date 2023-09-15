@@ -1,0 +1,8 @@
+name: Checker
+on:
+  push:
+    tags:
+      - v1.**
+jobs:
+  checker-template:
+    uses: techupth/techupth-workflows/.github/workflows/checker-template.yml@main
