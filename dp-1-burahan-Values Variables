@@ -1,0 +1,27 @@
+// Exercise #1: Variable Creation 
+// Start coding here 
+let name = "karter"
+let surname = "anderson"
+let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai"
+const restaurantName ="Chef's Table by Chef James"
+const netFoodPrice = 15000
+const numberOfRestaurant = 1500
+// Exercise #2: Variable Reassignment
+// Start coding here
+let address ="(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641”
+let netFoodPrice = 5000
+let numberOfRestaurant = 2500
+// Exercise #3: Celsius to Fahrenheit
+let celsius = 30;
+let fahrenheit = (celsius x 1.8) + 32
+// Exercise #4: What are Expressions
+130 + 300; //Expressions
+let zero = 1000 - 1000;
+20 * 120;//Expressions
+1000 / 2;//Expressions
+typeof true;
+let name = "John";
+3 > 5;//Expressions
+10 == 100;//Expressions
+200;//Expressions
+
